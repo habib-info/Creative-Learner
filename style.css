@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* header section start */
+
+header {
+    background-color: #FBFAFD;
+}
+
+.navbar-toggler-icon {
+    color: #292838;
+}
+
+.nav-item a {
+    color: #7d7c83;
+}
+
+.logo {
+    color: #5146AF;
+    text-decoration: none;
+}
+
+.header-contant {
+    background-image: url('./images/header_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header-link {
+    padding-left: 40px;
+}
+
+.header-link a {
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(147, 149, 151);
+}
+
+.hero-picture img {
+    width: 85%;
+}
+
+.input-group input[type=email] {
+    outline: none;
+    border: none;
+    background: #F0F2FA;
+    padding: 10px;
+    font-size: 13px;
+}
+
+.btn {
+    background-color: #5A4FDC;
+    color: white;
+}
+
+
+/* header style end */
+
+
+/* awesome features style start  */
+
+.af,
+.contact-us {
+    background-color: #FBFAFD;
+}
+
+#plane {
+    background-color: #FBFAFD;
+}
+
+.creative-lp-title span {
+    text-shadow: 1px 2px 3px #5146af;
+    color: #3B3950;
+    font-size: 44px;
+    font-weight: 600;
+}
+
+.awesome-feature-image img {
+    width: 85%;
+}
+
+.awesome-feature {
+    background-image: url('./images/feature_bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.awesome-feature-button a {
+    text-decoration: none;
+}
+
+.awesome-feature-button .btn-one {
+    padding: 15px;
+    background-color: #5a4fdc;
+    color: white;
+    border-radius: 3px;
+    margin: 5px;
+}
+
+.awesome-feature-button .btn-two {
+    padding: 15px;
+    background-color: rgb(207 203 255);
+    color: #5a4fdc;
+    border-radius: 3px;
+    margin: 5px;
+}
+
+
+/* awesome features style end  */
+
+i.fa-solid.fa-user {
+    border-start-end-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: #EBE9FB;
+    color: #5A4FDC;
+    border: 4px solid #f1eeee;
+}
+
+i.fa-user-group {
+    background-color: #5A4FDC;
+    color: white;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border: 4px solid #f1eeee;
+}
+
+i.fa-users {
+    background-color: #5A4FDC;
+    color: white;
+    border: 4px solid #f1eeee;
+    border-top-left-radius: 47px;
+}
+
+.waves a {
+    padding: 7px 18px;
+    text-decoration: none;
+    border: 1px solid #5A4FDC;
+    color: #5A4FDC;
+    border-radius: 5px;
+}
+
+.waves-midel a {
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 7px 18px;
+    background-color: #5A4FDC;
+    color: white;
+}
+
+.news-contant a {
+    text-decoration: none;
+}
+
+form button {
+    padding: 10px;
+    background-color: #5A4FDC;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.contact-info ul li {
+    list-style: none;
+    padding-bottom: 19px;
+}
+
+.about ul li {
+    list-style: none;
+    text-align: start;
+    padding-top: 7px;
+}
+
+.about ul li a {
+    text-decoration: none;
+    color: rgb(202, 198, 198);
+}
+
+
+/* footer style start */
+
+footer {
+    background-color: #292838;
+}
+
+
+/* footer style end */
